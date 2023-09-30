@@ -1,4 +1,4 @@
-import { Document, Page, Text, View, StyleSheet, PDFViewer } from "@react-pdf/renderer";
+import { Document, Page, Text, View, StyleSheet, PDFViewer, Tspan } from "@react-pdf/renderer";
 import axios from "axios";
 import { useEffect, useState } from "react";
 // Create styles
@@ -47,26 +47,25 @@ function BasicDocument() {
           {details.map((element) => {
             return(
               <View style={styles.section}>
-              <Text>Stone Code: {element.stone_code}</Text>
-              <Text>Size: {element.dimension}</Text>
-              <Text>Shape: {element.shape}</Text>
-              <Text>Cts: {element.cts}</Text>
-              <Text>P.Id: {element.p_id}</Text>
+              <Text>St Code: &nbsp;&nbsp;&nbsp;&nbsp; {element.stone_code}</Text>
+              <Text>Size: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; {element.dimension}</Text>
+              <Text>Shape: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; {element.shape}</Text>
+              <Text>Cts: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; {element.cts}</Text>
+              <Text>P.Id: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; {element.p_id}</Text>
             </View>
             )
           })}
         </Page>
         {/* <Page size="A4" style={styles.page}>
           {details.map((element) => {
-            return(
+            return (
               <View style={styles.section}>
-              <Text><table style="width:50%">
-                  <tr>
-                    <td>Emil</td>
-                    <td>Tobias</td>
-                  </tr>
-                </table></Text>
-            </View>
+                <Text>St Code:&nbsp;{element.stone_code}</Text>
+                <Text>Size:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{element.dimension}</Text>
+                <Text>Shape:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{element.shape}</Text>
+                <Text>Cts:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{element.cts}</Text>
+                <Text>P.Id:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{element.p_id}</Text>
+              </View>
             )
           })}
         </Page> */}

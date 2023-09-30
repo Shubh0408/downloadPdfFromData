@@ -2,15 +2,6 @@
   "productDescription": [
     {
       "s_no": 1,
-      "stone_name": "Rustic Tazanite",
-      "dimension": "11.5x14",
-      "shape": "Oval",
-      "cts": 8.95,
-      "stone_code": "TZ2-FTZ-2",
-      "p_id": 394
-     },
-     {
-      "s_no": 2,
       "stone_name": "Pine Tanzanite",
       "dimension": "8x11",
       "shape": "Octagon",
@@ -19,7 +10,7 @@
       "p_id": 132
      },
      {
-      "s_no": 3,
+      "s_no": 2,
       "stone_name": "Rustic Tazanite",
       "dimension": "11x15",
       "shape": "Cushion",
@@ -28,7 +19,7 @@
       "p_id": 468
      },
      {
-      "s_no": 4,
+      "s_no": 3,
       "stone_name": "Pine Tanzanite",
       "dimension": "11.5x11.5",
       "shape": "Trillion",
@@ -37,7 +28,7 @@
       "p_id": 284
      },
      {
-      "s_no": 5,
+      "s_no": 4,
       "stone_name": "Pine Tanzanite",
       "dimension": "11x16.3",
       "shape": "Pears",
@@ -46,7 +37,7 @@
       "p_id": 297
      },
      {
-      "s_no": 6,
+      "s_no": 5,
       "stone_name": "Olive Tanzanite",
       "dimension": "10x10",
       "shape": "Heart",
@@ -55,7 +46,7 @@
       "p_id": 144
      },
      {
-      "s_no": 7,
+      "s_no": 6,
       "stone_name": "Pine Tanzanite",
       "dimension": "13x13",
       "shape": "Trillion",
@@ -64,7 +55,7 @@
       "p_id": 199
      },
      {
-      "s_no": 8,
+      "s_no": 7,
       "stone_name": "Pine Tanzanite",
       "dimension": "9x13.5",
       "shape": "Pears",
@@ -73,7 +64,7 @@
       "p_id": 136
      },
      {
-      "s_no": 9,
+      "s_no": 8,
       "stone_name": "Olive Tanzanite",
       "dimension": "8.5x8.5",
       "shape": "Sq-Octagon",
@@ -82,7 +73,7 @@
       "p_id": 106
      },
      {
-      "s_no": 10,
+      "s_no": 9,
       "stone_name": "Sage Twillight",
       "dimension": "15.5x15.5",
       "shape": "Round",
@@ -91,7 +82,7 @@
       "p_id": 965
      },
      {
-      "s_no": 11,
+      "s_no": 10,
       "stone_name": "Olive Tanzanite",
       "dimension": "9x11",
       "shape": "Baguette",
@@ -100,7 +91,7 @@
       "p_id": 153
      },
      {
-      "s_no": 12,
+      "s_no": 11,
       "stone_name": "Rustic Tazanite",
       "dimension": "14x14",
       "shape": "Trillion",
@@ -109,7 +100,7 @@
       "p_id": 302
      },
      {
-      "s_no": 13,
+      "s_no": 12,
       "stone_name": "Fern Tanzanite",
       "dimension": "10.3x12.2",
       "shape": "Octagon",
@@ -118,7 +109,7 @@
       "p_id": 585
      },
      {
-      "s_no": 14,
+      "s_no": 13,
       "stone_name": "Rustic Tazanite",
       "dimension": "11x11",
       "shape": "Trillion",
@@ -127,7 +118,7 @@
       "p_id": 222
      },
      {
-      "s_no": 15,
+      "s_no": 14,
       "stone_name": "Pale Tanzanite",
       "dimension": "9.30x12",
       "shape": "Octagon",
@@ -136,7 +127,7 @@
       "p_id": 177
      },
      {
-      "s_no": 16,
+      "s_no": 15,
       "stone_name": "Olive Tanzanite",
       "dimension": "8x11",
       "shape": "Octagon",
@@ -145,7 +136,7 @@
       "p_id": 108
      },
      {
-      "s_no": 17,
+      "s_no": 16,
       "stone_name": "Olive Tanzanite",
       "dimension": "7.3x9.4",
       "shape": "Octagon",
@@ -154,7 +145,7 @@
       "p_id": 118
      },
      {
-      "s_no": 18,
+      "s_no": 17,
       "stone_name": "Pine Tanzanite",
       "dimension": "6.30x10",
       "shape": "Baguette",
@@ -163,7 +154,7 @@
       "p_id": 49
      },
      {
-      "s_no": 19,
+      "s_no": 18,
       "stone_name": "Rustic Tazanite",
       "dimension": "14x16",
       "shape": "Cushion",
@@ -172,7 +163,7 @@
       "p_id": 521
      },
      {
-      "s_no": 20,
+      "s_no": 19,
       "stone_name": "Teal Tanzanite",
       "dimension": "6x8",
       "shape": "Octagon",
@@ -181,7 +172,7 @@
       "p_id": 117
      },
      {
-      "s_no": 21,
+      "s_no": 20,
       "stone_name": "Olive Tanzanite",
       "dimension": "6x8",
       "shape": "Octagon",
@@ -190,7 +181,7 @@
       "p_id": 41
      },
      {
-      "s_no": 22,
+      "s_no": 21,
       "stone_name": "Pine Tanzanite",
       "dimension": "9.30x13",
       "shape": "Pears",
@@ -199,7 +190,7 @@
       "p_id": 119
      },
      {
-      "s_no": 23,
+      "s_no": 22,
       "stone_name": "Pine Tanzanite",
       "dimension": "9.2x11.2",
       "shape": "Oval",
@@ -208,7 +199,7 @@
       "p_id": 100
      },
      {
-      "s_no": 24,
+      "s_no": 23,
       "stone_name": "Fern Tanzanite",
       "dimension": "10x10",
       "shape": "Trillion",
@@ -217,7 +208,7 @@
       "p_id": 264
      },
      {
-      "s_no": 25,
+      "s_no": 24,
       "stone_name": "Olive Tanzanite",
       "dimension": "8x8",
       "shape": "Round",
@@ -226,7 +217,7 @@
       "p_id": 55
      },
      {
-      "s_no": 26,
+      "s_no": 25,
       "stone_name": "Fern Tanzanite",
       "dimension": "8.5x8.5",
       "shape": "Sq-Octagon",
@@ -235,7 +226,7 @@
       "p_id": 154
      },
      {
-      "s_no": 27,
+      "s_no": 26,
       "stone_name": "Teal Tanzanite",
       "dimension": "7x9",
       "shape": "Octagon",
@@ -244,7 +235,7 @@
       "p_id": 75
      },
      {
-      "s_no": 28,
+      "s_no": 27,
       "stone_name": "Pine Tanzanite",
       "dimension": "10x10",
       "shape": "Heart",
@@ -253,7 +244,7 @@
       "p_id": 114
      },
      {
-      "s_no": 29,
+      "s_no": 28,
       "stone_name": "Teal Tanzanite",
       "dimension": "7x7",
       "shape": "Trillion",
@@ -262,7 +253,7 @@
       "p_id": 44
      },
      {
-      "s_no": 30,
+      "s_no": 29,
       "stone_name": "Pine Tanzanite",
       "dimension": "7x7",
       "shape": "Trillion",
@@ -271,7 +262,7 @@
       "p_id": 33
      },
      {
-      "s_no": 31,
+      "s_no": 30,
       "stone_name": "Olive Tanzanite",
       "dimension": "8x8",
       "shape": "Sq-Cushion",
@@ -280,7 +271,7 @@
       "p_id": 88
      },
      {
-      "s_no": 32,
+      "s_no": 31,
       "stone_name": "Teal Tanzanite",
       "dimension": "7.5x7.5",
       "shape": "Round",
@@ -289,7 +280,7 @@
       "p_id": 76
      },
      {
-      "s_no": 33,
+      "s_no": 32,
       "stone_name": "Teal Tanzanite",
       "dimension": "6x8",
       "shape": "Octagon",
@@ -298,7 +289,7 @@
       "p_id": 80
      },
      {
-      "s_no": 34,
+      "s_no": 33,
       "stone_name": "Olive Tanzanite",
       "dimension": "6.80mm",
       "shape": "Sq-Octagon",
@@ -307,7 +298,7 @@
       "p_id": 40
      },
      {
-      "s_no": 35,
+      "s_no": 34,
       "stone_name": "Teal Tanzanite",
       "dimension": "6x6",
       "shape": "Trillion",
@@ -316,7 +307,7 @@
       "p_id": 114
      },
      {
-      "s_no": 36,
+      "s_no": 35,
       "stone_name": "Fuscia Tanzanite",
       "dimension": "6x10",
       "shape": "Pears",
@@ -325,7 +316,7 @@
       "p_id": 132
      },
      {
-      "s_no": 37,
+      "s_no": 36,
       "stone_name": "Periwinkle Tanzanite",
       "dimension": "7.70x11.70",
       "shape": "Pears",
@@ -334,7 +325,7 @@
       "p_id": 605
      },
      {
-      "s_no": 38,
+      "s_no": 37,
       "stone_name": "Flamingo Tanzanite",
       "dimension": "5.5x7.5",
       "shape": "Pears",
@@ -343,7 +334,7 @@
       "p_id": 75
      },
      {
-      "s_no": 39,
+      "s_no": 38,
       "stone_name": "Fuscia Tanzanite",
       "dimension": "6.5x10.5",
       "shape": "Pears",
@@ -352,7 +343,7 @@
       "p_id": 262
      },
      {
-      "s_no": 40,
+      "s_no": 39,
       "stone_name": "Fuscia Tanzanite",
       "dimension": "5x8",
       "shape": "Pears",
@@ -361,7 +352,7 @@
       "p_id": 29
      },
      {
-      "s_no": 41,
+      "s_no": 40,
       "stone_name": "Peach Tanzanite",
       "dimension": "6x10",
       "shape": "Pears",
@@ -370,7 +361,7 @@
       "p_id": 49
      },
      {
-      "s_no": 42,
+      "s_no": 41,
       "stone_name": "Mayrose Tanzanite",
       "dimension": "7.5x7.5",
       "shape": "Trillion",
@@ -379,7 +370,7 @@
       "p_id": 392
      },
      {
-      "s_no": 43,
+      "s_no": 42,
       "stone_name": "Mayrose Tanzanite",
       "dimension": "7.5x7.5",
       "shape": "Trillion",
@@ -388,7 +379,7 @@
       "p_id": 420
      },
      {
-      "s_no": 44,
+      "s_no": 43,
       "stone_name": "Fuscia Tanzanite",
       "dimension": "9x9",
       "shape": "Trillion",
@@ -397,8 +388,8 @@
       "p_id": 51
      },
      {
-      "s_no": 45,
-      "stone_name": "Flamingo",
+      "s_no": 44,
+      "stone_name": "Flamingo Tanzanite",
       "dimension": "5.8x5.85",
       "shape": "Trillion",
       "cts": 0.92,
@@ -406,7 +397,7 @@
       "p_id": 65
      },
      {
-      "s_no": 46,
+      "s_no": 45,
       "stone_name": "Peach Tanzanite",
       "dimension": "5.5x5.5",
       "shape": "Sq-Cushion",
@@ -415,7 +406,7 @@
       "p_id": 27
      },
      {
-      "s_no": 47,
+      "s_no": 46,
       "stone_name": "Fuscia Tanzanite",
       "dimension": "6.5x8",
       "shape": "Cushion",
@@ -424,7 +415,7 @@
       "p_id": 67
      },
      {
-      "s_no": 48,
+      "s_no": 47,
       "stone_name": "Periwinkle Tanzanite",
       "dimension": "5.7x8",
       "shape": "Cushion",
@@ -433,7 +424,7 @@
       "p_id": 266
      },
      {
-      "s_no": 49,
+      "s_no": 48,
       "stone_name": "Mayrose Tanzanite",
       "dimension": "5x11",
       "shape": "Marquise",
@@ -442,7 +433,7 @@
       "p_id": 119
      },
      {
-      "s_no": 50,
+      "s_no": 49,
       "stone_name": "Flamingo Tanzanite",
       "dimension": "5x6.4",
       "shape": "Oval",
@@ -451,7 +442,7 @@
       "p_id": 41
      },
      {
-      "s_no": 51,
+      "s_no": 50,
       "stone_name": "Mist Tanzanite",
       "dimension": "9.20x9.20",
       "shape": "Sq-Cushion",
@@ -460,7 +451,7 @@
       "p_id": 202
      },
      {
-      "s_no": 52,
+      "s_no": 51,
       "stone_name": "Periwinkle Tanzanite",
       "dimension": "5x5",
       "shape": "Sq-Cushion",
@@ -469,7 +460,7 @@
       "p_id": 41
      },
      {
-      "s_no": 53,
+      "s_no": 52,
       "stone_name": "Plum Tanzanite",
       "dimension": "7x7",
       "shape": "Trillion",
@@ -478,8 +469,8 @@
       "p_id": 48
      },
      {
-      "s_no": 54,
-      "stone_name": "Flamingo",
+      "s_no": 53,
+      "stone_name": "Flamingo Tanzanite",
       "dimension": "5x8.4",
       "shape": "Pears",
       "cts": 0.92,
@@ -487,7 +478,7 @@
       "p_id": 24
      },
      {
-      "s_no": 55,
+      "s_no": 54,
       "stone_name": "Plum Tanzanite",
       "dimension": "6.3x10",
       "shape": "Baguette",
@@ -496,8 +487,8 @@
       "p_id": 104
      },
      {
-      "s_no": 56,
-      "stone_name": "Pine Tazanite",
+      "s_no": 55,
+      "stone_name": "Pine Tanzanite",
       "dimension": "6x8",
       "shape": "Octagon",
       "cts": 1.3,
@@ -505,7 +496,7 @@
       "p_id": 46
      },
      {
-      "s_no": 57,
+      "s_no": 56,
       "stone_name": "Mist Tanzanite",
       "dimension": "8.8x10.5",
       "shape": "Oval",
@@ -514,7 +505,7 @@
       "p_id": 84
      },
      {
-      "s_no": 58,
+      "s_no": 57,
       "stone_name": "Mist Tanzanite",
       "dimension": "8.20x11.5",
       "shape": "Oval",
@@ -523,8 +514,8 @@
       "p_id": 359
      },
      {
-      "s_no": 59,
-      "stone_name": "Tangerine",
+      "s_no": 58,
+      "stone_name": "Tangerine Tanzanite",
       "dimension": "10x10",
       "shape": "Trillion",
       "cts": 3.35,
@@ -532,8 +523,8 @@
       "p_id": 118
      },
      {
-      "s_no": 60,
-      "stone_name": "Tangerine",
+      "s_no": 59,
+      "stone_name": "Tangerine Tanzanite",
       "dimension": "11x11",
       "shape": "Trillion",
       "cts": 4.5,
@@ -541,8 +532,8 @@
       "p_id": 198
      },
      {
-      "s_no": 61,
-      "stone_name": "Amber",
+      "s_no": 60,
+      "stone_name": "Amber Tanzanite",
       "dimension": "9x11.2",
       "shape": "Octagon",
       "cts": 5.35,
@@ -550,8 +541,8 @@
       "p_id": 235
      },
      {
-      "s_no": 62,
-      "stone_name": "Tangerine",
+      "s_no": 61,
+      "stone_name": "Tangerine Tanzanite",
       "dimension": "7.7x8.8",
       "shape": "Cushion",
       "cts": 4.05,
@@ -559,8 +550,8 @@
       "p_id": 214
      },
      {
-      "s_no": 63,
-      "stone_name": "Tangerine",
+      "s_no": 62,
+      "stone_name": "Tangerine Tanzanite",
       "dimension": "7.8x8.5",
       "shape": "Cushion",
       "cts": 3.03,
@@ -568,7 +559,7 @@
       "p_id": 160
      },
      {
-      "s_no": 64,
+      "s_no": 63,
       "stone_name": "Sangria Tanzanite",
       "dimension": "6.3x8",
       "shape": "Cushion",
@@ -577,8 +568,8 @@
       "p_id": 475
      },
      {
-      "s_no": 65,
-      "stone_name": "Steel Blue",
+      "s_no": 64,
+      "stone_name": "Steel Blue Tanzanite",
       "dimension": "7.5x7.5",
       "shape": "Sq. Princess",
       "cts": 2.43,
@@ -586,7 +577,7 @@
       "p_id": 107
      },
      {
-      "s_no": 66,
+      "s_no": 65,
       "stone_name": "Cobalt Tanzanite",
       "dimension": "8x10",
       "shape": "Oval",
@@ -595,8 +586,8 @@
       "p_id": 510
      },
      {
-      "s_no": 67,
-      "stone_name": "Indigo",
+      "s_no": 66,
+      "stone_name": "Indigo Tanzanite",
       "dimension": "7x9",
       "shape": "Pears",
       "cts": 1.77,
@@ -604,7 +595,7 @@
       "p_id": 312
      },
      {
-      "s_no": 68,
+      "s_no": 67,
       "stone_name": "Fern Tanzanite",
       "dimension": "11x11",
       "shape": "Trillion",
@@ -613,7 +604,7 @@
       "p_id": 430
      },
      {
-      "s_no": 69,
+      "s_no": 68,
       "stone_name": "Peach Tanzanite",
       "dimension": "6.2x10.2",
       "shape": "Pears",
@@ -622,7 +613,7 @@
       "p_id": 51
      },
      {
-      "s_no": 70,
+      "s_no": 69,
       "stone_name": "Peach Tanzanite",
       "dimension": "5.5x8",
       "shape": "Octagon",
@@ -631,7 +622,7 @@
       "p_id": 39
      },
      {
-      "s_no": 71,
+      "s_no": 70,
       "stone_name": "Peach Tanzanite",
       "dimension": "5.5x7.70",
       "shape": "Octagon",
@@ -640,7 +631,7 @@
       "p_id": 32
      },
      {
-      "s_no": 72,
+      "s_no": 71,
       "stone_name": "Fancy Tanzanite",
       "dimension": "5x7",
       "shape": "Octagon",
@@ -649,7 +640,7 @@
       "p_id": 8
      },
      {
-      "s_no": 73,
+      "s_no": 72,
       "stone_name": "Peach Tanzanite",
       "dimension": "4.5x6.30",
       "shape": "Octagon",
@@ -658,7 +649,7 @@
       "p_id": 32
      },
      {
-      "s_no": 74,
+      "s_no": 73,
       "stone_name": "Plum Tanzanite",
       "dimension": "5x7.5",
       "shape": "Baguette",
@@ -667,7 +658,7 @@
       "p_id": 28
      },
      {
-      "s_no": 75,
+      "s_no": 74,
       "stone_name": "Sangria Tanzanite",
       "dimension": "4.5x5.7",
       "shape": "Octagon",
@@ -676,7 +667,7 @@
       "p_id": 21
      },
      {
-      "s_no": 76,
+      "s_no": 75,
       "stone_name": "Plum Tanzanite",
       "dimension": "6x6",
       "shape": "Round",
@@ -685,7 +676,7 @@
       "p_id": 22
      },
      {
-      "s_no": 77,
+      "s_no": 76,
       "stone_name": "Plum Tanzanite",
       "dimension": "5.5x5.5",
       "shape": "Trillion",
@@ -694,7 +685,7 @@
       "p_id": 31
      },
      {
-      "s_no": 78,
+      "s_no": 77,
       "stone_name": "Peach Tanzanite",
       "dimension": "4.70x13.2",
       "shape": "Fancy",
@@ -703,7 +694,7 @@
       "p_id": 148
      },
      {
-      "s_no": 79,
+      "s_no": 78,
       "stone_name": "Rustic Tazanite",
       "dimension": "14x19",
       "shape": "Oval",
@@ -712,7 +703,7 @@
       "p_id": 646
      },
      {
-      "s_no": 80,
+      "s_no": 79,
       "stone_name": "Fancy Tanzanite",
       "dimension": "15x19",
       "shape": "Cushion",
@@ -721,8 +712,8 @@
       "p_id": 458
      },
      {
-      "s_no": 81,
-      "stone_name": "Tangerine",
+      "s_no": 80,
+      "stone_name": "Tangerine Tanzanite",
       "dimension": "7x9",
       "shape": "Oval",
       "cts": 2,
@@ -730,7 +721,7 @@
       "p_id": 70
      },
      {
-      "s_no": 82,
+      "s_no": 81,
       "stone_name": "Fuscia Tanzanite",
       "dimension": "6.30x6.30",
       "shape": "Sq-Cushion",
@@ -739,13 +730,903 @@
       "p_id": 76
      },
      {
-      "s_no": 83,
+      "s_no": 82,
       "stone_name": "Mist Tanzanite",
       "dimension": "11.2x14.5",
       "shape": "Oval",
       "cts": 8.7,
       "stone_code": "TZ2-FTZ-89",
       "p_id": 383
+     },
+     {
+      "s_no": 83,
+      "stone_name": "Natural Tanzanite",
+      "dimension": "17x17",
+      "shape": "Round",
+      "cts": 22.4,
+      "stone_code": "TZ2-NTZ-90",
+      "p_id": 986
+     },
+     {
+      "s_no": 84,
+      "stone_name": "Natural Tanzanite",
+      "dimension": "17x24",
+      "shape": "Pears",
+      "cts": 31.75,
+      "stone_code": "TZ2-NTZ-91",
+      "p_id": 1397
+     },
+     {
+      "s_no": 85,
+      "stone_name": "Natural Tanzanite",
+      "dimension": "11x14.7",
+      "shape": "Octagon",
+      "cts": 9.68,
+      "stone_code": "TZ2-NTZ-92",
+      "p_id": 426
+     },
+     {
+      "s_no": 86,
+      "stone_name": "Natural Tanzanite",
+      "dimension": "15x12",
+      "shape": "Octagon",
+      "cts": 11.93,
+      "stone_code": "TZ2-NTZ-94",
+      "p_id": 525
+     },
+     {
+      "s_no": 87,
+      "stone_name": "Natural Tanzanite",
+      "dimension": "9x11",
+      "shape": "Oval",
+      "cts": 4.1,
+      "stone_code": "TZ2-NTZ-95",
+      "p_id": 144
+     },
+     {
+      "s_no": 88,
+      "stone_name": "Natural Tanzanite",
+      "dimension": "10.5x10.5",
+      "shape": "Round",
+      "cts": 4.93,
+      "stone_code": "TZ2-NTZ-96",
+      "p_id": 174
+     },
+     {
+      "s_no": 89,
+      "stone_name": "Natural Tanzanite",
+      "dimension": "9.3x12",
+      "shape": "Oval",
+      "cts": 5.1,
+      "stone_code": "TZ2-NTZ-97",
+      "p_id": 180
+     },
+     {
+      "s_no": 90,
+      "stone_name": "Natural Tanzanite",
+      "dimension": "9x9",
+      "shape": "Fancy",
+      "cts": 7.44,
+      "stone_code": "TZ2-NTZ-99",
+      "p_id": 261
+     },
+     {
+      "s_no": 91,
+      "stone_name": "Tanzanite",
+      "dimension": "10x10",
+      "shape": "Trillion",
+      "cts": 4.4,
+      "stone_code": "TZ8-4-H-1",
+      "p_id": 97
+     },
+     {
+      "s_no": 92,
+      "stone_name": "Tanzanite",
+      "dimension": "13x13",
+      "shape": "Trillion",
+      "cts": 10.05,
+      "stone_code": "TZ8-4-H-2",
+      "p_id": 265
+     },
+     {
+      "s_no": 93,
+      "stone_name": "Tanzanite",
+      "dimension": "13x15",
+      "shape": "Cushion",
+      "cts": 14.6,
+      "stone_code": "TZ8-4-H-4",
+      "p_id": 385
+     },
+     {
+      "s_no": 94,
+      "stone_name": "Tanzanite",
+      "dimension": "13.75x17.1",
+      "shape": "Oval",
+      "cts": 16.2,
+      "stone_code": "TZ8-4-H-5",
+      "p_id": 428
+     },
+     {
+      "s_no": 95,
+      "stone_name": "Tanzanite",
+      "dimension": "10x10",
+      "shape": "Trillion",
+      "cts": 2.98,
+      "stone_code": "TZ8-4-H-7",
+      "p_id": 66
+     },
+     {
+      "s_no": 96,
+      "stone_name": "Tanzanite",
+      "dimension": "17.5mm",
+      "shape": "Heart",
+      "cts": 22.04,
+      "stone_code": "TZ8-4-H-15",
+      "p_id": 582
+     },
+     {
+      "s_no": 97,
+      "stone_name": "Tanzanite",
+      "dimension": "12.9x12.8",
+      "shape": "Trillion",
+      "cts": 15.47,
+      "stone_code": "TZ8-2-H-80",
+      "p_id": 408
+     },
+     {
+      "s_no": 98,
+      "stone_name": "Tanzanite",
+      "dimension": "Free",
+      "shape": "Long Cushion",
+      "cts": 52.68,
+      "stone_code": "TZ10-H-1",
+      "p_id": 1854
+     },
+     {
+      "s_no": 99,
+      "stone_name": "Tanzanite",
+      "dimension": "Free",
+      "shape": "Long Cushion",
+      "cts": 52.98,
+      "stone_code": "TZ10-H-2",
+      "p_id": 1865
+     },
+     {
+      "s_no": 100,
+      "stone_name": "Tanzanite",
+      "dimension": "14.35x24.70",
+      "shape": "Octagon",
+      "cts": 26.8,
+      "stone_code": "TZ10-H-3",
+      "p_id": 825
+     },
+     {
+      "s_no": 101,
+      "stone_name": "Tanzanite",
+      "dimension": "14.35x24.60",
+      "shape": "Octagon",
+      "cts": 28.27,
+      "stone_code": "TZ10-H-4",
+      "p_id": 871
+     },
+     {
+      "s_no": 102,
+      "stone_name": "Tanzanite",
+      "dimension": "14.88x23.11",
+      "shape": "Pears",
+      "cts": 16.06,
+      "stone_code": "TZ10-H-5",
+      "p_id": 495
+     },
+     {
+      "s_no": 103,
+      "stone_name": "Tanzanite",
+      "dimension": "15x23",
+      "shape": "Pears",
+      "cts": 16.15,
+      "stone_code": "TZ10-H-6",
+      "p_id": 497
+     },
+     {
+      "s_no": 104,
+      "stone_name": "Tanzanite",
+      "dimension": "15.5x18.7",
+      "shape": "Octagon",
+      "cts": 20.83,
+      "stone_code": "TZ10-H-7",
+      "p_id": 642
+     },
+     {
+      "s_no": 105,
+      "stone_name": "Tanzanite",
+      "dimension": "13.66x16.90",
+      "shape": "Octagon",
+      "cts": 15.41,
+      "stone_code": "TZ10-H-8",
+      "p_id": 475
+     },
+     {
+      "s_no": 106,
+      "stone_name": "Tanzanite",
+      "dimension": "8.20x11",
+      "shape": "Octagon",
+      "cts": 3.24,
+      "stone_code": "TZ10-H-9",
+      "p_id": 77
+     },
+     {
+      "s_no": 107,
+      "stone_name": "Tanzanite",
+      "dimension": "7.8x10.5",
+      "shape": "Octagon",
+      "cts": 2.82,
+      "stone_code": "TZ10-H-10",
+      "p_id": 67
+     },
+     {
+      "s_no": 108,
+      "stone_name": "Tanzanite",
+      "dimension": "7.8x10.2",
+      "shape": "Octagon",
+      "cts": 3.04,
+      "stone_code": "TZ10-H-11",
+      "p_id": 72
+     },
+     {
+      "s_no": 109,
+      "stone_name": "Tanzanite",
+      "dimension": "11.6x20.2",
+      "shape": "Pears",
+      "cts": 9.39,
+      "stone_code": "TZ10-H-12",
+      "p_id": 223
+     },
+     {
+      "s_no": 110,
+      "stone_name": "Tanzanite",
+      "dimension": "9x15",
+      "shape": "Pears",
+      "cts": 4.07,
+      "stone_code": "TZ10-H-13",
+      "p_id": 97
+     },
+     {
+      "s_no": 111,
+      "stone_name": "Tanzanite",
+      "dimension": "9.6x13",
+      "shape": "Pears",
+      "cts": 3.86,
+      "stone_code": "TZ10-H-14",
+      "p_id": 92
+     },
+     {
+      "s_no": 112,
+      "stone_name": "Tanzanite",
+      "dimension": "9.25x12.2",
+      "shape": "Cushion",
+      "cts": 4.6,
+      "stone_code": "TZ10-H-15",
+      "p_id": 109
+     },
+     {
+      "s_no": 113,
+      "stone_name": "Tanzanite",
+      "dimension": "17x17",
+      "shape": "Sq-Princess",
+      "cts": 25.82,
+      "stone_code": "TZ10-H-17",
+      "p_id": 909
+     },
+     {
+      "s_no": 114,
+      "stone_name": "Tanzanite",
+      "dimension": "6.5x8.5",
+      "shape": "Oval",
+      "cts": 1.95,
+      "stone_code": "TZ8-1-H-1",
+      "p_id": 38
+     },
+     {
+      "s_no": 115,
+      "stone_name": "Tanzanite",
+      "dimension": "6x8",
+      "shape": "Oval",
+      "cts": 2.85,
+      "stone_code": "TZ8-1-H-2(a)",
+      "p_id": 58
+     },
+     {
+      "s_no": 116,
+      "stone_name": "Tanzanite",
+      "dimension": "9.5mm",
+      "shape": "Heart",
+      "cts": 6.95,
+      "stone_code": "TZ8-1-H-5",
+      "p_id": 165
+     },
+     {
+      "s_no": 117,
+      "stone_name": "Tanzanite",
+      "dimension": "9x9",
+      "shape": "Cushion",
+      "cts": 3.32,
+      "stone_code": "TZ8-1-H-7",
+      "p_id": 79
+     },
+     {
+      "s_no": 118,
+      "stone_name": "Tanzanite",
+      "dimension": "6x6",
+      "shape": "Cushion",
+      "cts": 1.32,
+      "stone_code": "TZ8-1-H-8(b)",
+      "p_id": 26
+     },
+     {
+      "s_no": 119,
+      "stone_name": "Tanzanite",
+      "dimension": "6x6",
+      "shape": "Cushion",
+      "cts": 2.68,
+      "stone_code": "TZ8-1-H-8(a)",
+      "p_id": 52
+     },
+     {
+      "s_no": 120,
+      "stone_name": "Tanzanite",
+      "dimension": "6.5mm",
+      "shape": "Cushion",
+      "cts": 2.78,
+      "stone_code": "TZ8-1-H-9",
+      "p_id": 54
+     },
+     {
+      "s_no": 121,
+      "stone_name": "Tanzanite",
+      "dimension": "7x7",
+      "shape": "Cushion",
+      "cts": 2.23,
+      "stone_code": "TZ8-1-H-10(a)",
+      "p_id": 43
+     },
+     {
+      "s_no": 122,
+      "stone_name": "Tanzanite",
+      "dimension": "7.5mm",
+      "shape": "Cushion",
+      "cts": 2.43,
+      "stone_code": "TZ8-1-H-11",
+      "p_id": 58
+     },
+     {
+      "s_no": 123,
+      "stone_name": "Tanzanite",
+      "dimension": "6x6",
+      "shape": "Sq-Princess",
+      "cts": 1.22,
+      "stone_code": "TZ8-1-H-13(a)",
+      "p_id": 24
+     },
+     {
+      "s_no": 124,
+      "stone_name": "Tanzanite",
+      "dimension": "6x6",
+      "shape": "Sq-Princess",
+      "cts": 1.59,
+      "stone_code": "TZ8-1-H-13(b)",
+      "p_id": 31
+     },
+     {
+      "s_no": 125,
+      "stone_name": "Tanzanite",
+      "dimension": "5.70mm",
+      "shape": "Sq-Princess",
+      "cts": 1.1,
+      "stone_code": "TZ8-1-H-15",
+      "p_id": 21
+     },
+     {
+      "s_no": 126,
+      "stone_name": "Tanzanite",
+      "dimension": "6.5mm",
+      "shape": "Round",
+      "cts": 1.26,
+      "stone_code": "TZ8-1-H-20",
+      "p_id": 24
+     },
+     {
+      "s_no": 127,
+      "stone_name": "Tanzanite",
+      "dimension": "5.7x8",
+      "shape": "Pears",
+      "cts": 1.24,
+      "stone_code": "TZ8-1-H-21(a)",
+      "p_id": 24
+     },
+     {
+      "s_no": 128,
+      "stone_name": "Tanzanite",
+      "dimension": "6x9",
+      "shape": "Pears",
+      "cts": 1.46,
+      "stone_code": "TZ8-1-H-25",
+      "p_id": 28
+     },
+     {
+      "s_no": 129,
+      "stone_name": "Tanzanite",
+      "dimension": "7.5x12.6",
+      "shape": "Octagon",
+      "cts": 4,
+      "stone_code": "TZ8-1-H-26",
+      "p_id": 95
+     },
+     {
+      "s_no": 130,
+      "stone_name": "Tanzanite",
+      "dimension": "5x7",
+      "shape": "Octagon",
+      "cts": 2.32,
+      "stone_code": "TZ8-1-H-28(a)",
+      "p_id": 47
+     },
+     {
+      "s_no": 131,
+      "stone_name": "Tanzanite",
+      "dimension": "6x6",
+      "shape": "Trillion",
+      "cts": 1.5,
+      "stone_code": "TZ8-1-H-36(a)",
+      "p_id": 29
+     },
+     {
+      "s_no": 132,
+      "stone_name": "Tanzanite",
+      "dimension": "6x6",
+      "shape": "Trillion",
+      "cts": 1.84,
+      "stone_code": "TZ8-1-H-36(b)",
+      "p_id": 36
+     },
+     {
+      "s_no": 133,
+      "stone_name": "Tanzanite",
+      "dimension": "6.5x6.5",
+      "shape": "Trillion",
+      "cts": 1.39,
+      "stone_code": "TZ8-1-H-37(a)",
+      "p_id": 27
+     },
+     {
+      "s_no": 134,
+      "stone_name": "Tanzanite",
+      "dimension": "7x7",
+      "shape": "Trillion",
+      "cts": 1.23,
+      "stone_code": "TZ8-1-H-38(a)",
+      "p_id": 24
+     },
+     {
+      "s_no": 135,
+      "stone_name": "Tanzanite",
+      "dimension": "7x7",
+      "shape": "Trillion",
+      "cts": 1.63,
+      "stone_code": "TZ8-1-H-38(b)",
+      "p_id": 32
+     },
+     {
+      "s_no": 136,
+      "stone_name": "Tanzanite",
+      "dimension": "7x7",
+      "shape": "Trillion",
+      "cts": 2.62,
+      "stone_code": "TZ8-1-H-38(c)",
+      "p_id": 51
+     },
+     {
+      "s_no": 137,
+      "stone_name": "Tanzanite",
+      "dimension": "8.5x8.5",
+      "shape": "Trillion",
+      "cts": 2.11,
+      "stone_code": "TZ8-1-H-40",
+      "p_id": 50
+     },
+     {
+      "s_no": 138,
+      "stone_name": "Tanzanite",
+      "dimension": "9x9",
+      "shape": "Trillion",
+      "cts": 5.77,
+      "stone_code": "TZ8-1-H-41",
+      "p_id": 137
+     },
+     {
+      "s_no": 139,
+      "stone_name": "Tanzanite",
+      "dimension": "10x10",
+      "shape": "Trillion",
+      "cts": 4.67,
+      "stone_code": "TZ8-1-H-42",
+      "p_id": 111
+     },
+     {
+      "s_no": 140,
+      "stone_name": "Tanzanite",
+      "dimension": "10.5x10.5",
+      "shape": "Trillion",
+      "cts": 5.22,
+      "stone_code": "TZ8-1-H-43",
+      "p_id": 124
+     },
+     {
+      "s_no": 141,
+      "stone_name": "Plum Rhodolite",
+      "dimension": "10.1x8.10",
+      "shape": "Octagon",
+      "cts": 5.2,
+      "stone_code": "RH1-N-1",
+      "p_id": 137
+     },
+     {
+      "s_no": 142,
+      "stone_name": "Plum Rhodolite",
+      "dimension": "9x7x5.5",
+      "shape": "Octagon",
+      "cts": 3.62,
+      "stone_code": "RH1-N-3",
+      "p_id": 96
+     },
+     {
+      "s_no": 143,
+      "stone_name": "Plum Rhodolite",
+      "dimension": "14.8x11.3x8.60",
+      "shape": "Octagon",
+      "cts": 13.51,
+      "stone_code": "RH1-N-4",
+      "p_id": 357
+     },
+     {
+      "s_no": 144,
+      "stone_name": "Sangria Rhodolite",
+      "dimension": "13x13x9.4",
+      "shape": "Sq-Octagon",
+      "cts": 15.03,
+      "stone_code": "RH1-N-5",
+      "p_id": 397
+     },
+     {
+      "s_no": 145,
+      "stone_name": "Plum Rhodolite",
+      "dimension": "11x11",
+      "shape": "Sq-Octagon",
+      "cts": 9.34,
+      "stone_code": "RH1-N-6",
+      "p_id": 329
+     },
+     {
+      "s_no": 146,
+      "stone_name": "Plum Rhodolite",
+      "dimension": "7.4x7.4x5.6",
+      "shape": "Sq-Octagon",
+      "cts": 2.83,
+      "stone_code": "RH1-N-7",
+      "p_id": 75
+     },
+     {
+      "s_no": 147,
+      "stone_name": "Plum Rhodolite",
+      "dimension": "9x6.8x4.5",
+      "shape": "Pears",
+      "cts": 1.95,
+      "stone_code": "RH1-N-8",
+      "p_id": 51
+     },
+     {
+      "s_no": 148,
+      "stone_name": "Plum Rhodolite",
+      "dimension": "10x7x4.3",
+      "shape": "Pears",
+      "cts": 2.2,
+      "stone_code": "RH1-N-9",
+      "p_id": 58
+     },
+     {
+      "s_no": 149,
+      "stone_name": "Plum Rhodolite",
+      "dimension": "8.8x13.6x6.5",
+      "shape": "Pears",
+      "cts": 11.6,
+      "stone_code": "RH1-N-10",
+      "p_id": 357
+     },
+     {
+      "s_no": 150,
+      "stone_name": "Plum Rhodolite",
+      "dimension": "9x7x5.2",
+      "shape": "Oval",
+      "cts": 5.53,
+      "stone_code": "RH1-N-13",
+      "p_id": 170
+     },
+     {
+      "s_no": 151,
+      "stone_name": "Plum Rhodolite",
+      "dimension": "8x10.3x5.3",
+      "shape": "Oval",
+      "cts": 3.35,
+      "stone_code": "RH1-N-14",
+      "p_id": 88
+     },
+     {
+      "s_no": 152,
+      "stone_name": "Plum Rhodolite",
+      "dimension": "8.9x11.1x6.9",
+      "shape": "Cushion",
+      "cts": 6.85,
+      "stone_code": "RH1-N-16",
+      "p_id": 181
+     },
+     {
+      "s_no": 153,
+      "stone_name": "Plum Rhodolite",
+      "dimension": "8x8x5.5",
+      "shape": "Square Cushion",
+      "cts": 3.4,
+      "stone_code": "RH1-N-17",
+      "p_id": 90
+     },
+     {
+      "s_no": 154,
+      "stone_name": "Plum Rhodolite",
+      "dimension": "8.2x9.9x5.8",
+      "shape": "Octagon",
+      "cts": 4.53,
+      "stone_code": "RH1-N-18",
+      "p_id": 120
+     },
+     {
+      "s_no": 155,
+      "stone_name": "Plum Rhodolite",
+      "dimension": "15.5x18.5",
+      "shape": "Octagon",
+      "cts": 61.32,
+      "stone_code": "RH3-1-N-3",
+      "p_id": 2698
+     },
+     {
+      "s_no": 156,
+      "stone_name": "Sangria Rhodolite",
+      "dimension": "18.12x21.54",
+      "shape": "Oval",
+      "cts": 36.53,
+      "stone_code": "RH3-1-N-6",
+      "p_id": 1286
+     },
+     {
+      "s_no": 157,
+      "stone_name": "Plum Rhodolite",
+      "dimension": "12.8x15.8",
+      "shape": "Octagon",
+      "cts": 21.2,
+      "stone_code": "RH3-1-N-2",
+      "p_id": 746
+     },
+     {
+      "s_no": 158,
+      "stone_name": "Plum Rhodolite",
+      "dimension": "11.6x14.8",
+      "shape": "Pears",
+      "cts": 10.99,
+      "stone_code": "RH3-1-N-5",
+      "p_id": 387
+     },
+     {
+      "s_no": 159,
+      "stone_name": "Peach Morganite",
+      "dimension": "15.8x24.8",
+      "shape": "Pears",
+      "cts": 21.8,
+      "stone_code": "MG1-TH-2",
+      "p_id": 480
+     },
+     {
+      "s_no": 160,
+      "stone_name": "Melon Morganite",
+      "dimension": "8x10",
+      "shape": "Octagon",
+      "cts": 6.28,
+      "stone_code": "MG1-TH-3",
+      "p_id": 55
+     },
+     {
+      "s_no": 161,
+      "stone_name": "Melon Morganite",
+      "dimension": "7x10.3",
+      "shape": "Pears",
+      "cts": 1.85,
+      "stone_code": "MG1-TH-4",
+      "p_id": 16
+     },
+     {
+      "s_no": 162,
+      "stone_name": "Mayrose Spinel",
+      "dimension": "4.5x8",
+      "shape": "Pears",
+      "cts": 1.48,
+      "stone_code": "PS3-1-N-28",
+      "p_id": 130
+     },
+     {
+      "s_no": 163,
+      "stone_name": "Red Spinel",
+      "dimension": "4x8.8",
+      "shape": "Baguette",
+      "cts": 0.92,
+      "stone_code": "PS3-1-N-7",
+      "p_id": 81
+     },
+     {
+      "s_no": 164,
+      "stone_name": "Mayrose Spinel",
+      "dimension": "4.5x10.2",
+      "shape": "Marquise",
+      "cts": 0.85,
+      "stone_code": "PS3-1-N-41",
+      "p_id": 75
+     },
+     {
+      "s_no": 165,
+      "stone_name": "Mayrose Spinel",
+      "dimension": "8x8",
+      "shape": "Heart",
+      "cts": 1.97,
+      "stone_code": "PS3-1-N-47",
+      "p_id": 1040
+     },
+     {
+      "s_no": 166,
+      "stone_name": "Salmon Malaya",
+      "dimension": "6x8",
+      "shape": "Oval",
+      "cts": 1.71,
+      "stone_code": "MA1-2-N-3(a)",
+      "p_id": 45
+     },
+     {
+      "s_no": 167,
+      "stone_name": "Salmon Malaya",
+      "dimension": "7.10x7.3",
+      "shape": "Cushion",
+      "cts": 2.44,
+      "stone_code": "MA1-3-N-5",
+      "p_id": 64
+     },
+     {
+      "s_no": 168,
+      "stone_name": "Salmon Malaya",
+      "dimension": "8.7x10.3",
+      "shape": "Oval",
+      "cts": 3.64,
+      "stone_code": "MA1-3-N-9",
+      "p_id": 80
+     },
+     {
+      "s_no": 169,
+      "stone_name": "Aquamarine",
+      "dimension": "6.3x8.5",
+      "shape": "Octagon",
+      "cts": 1.81,
+      "stone_code": "AQ1-H-3",
+      "p_id": 32
+     },
+     {
+      "s_no": 170,
+      "stone_name": "Pink Tourmaline",
+      "dimension": "8.57x8.51",
+      "shape": "Sq-Princess",
+      "cts": 2.54,
+      "stone_code": "MIX1-N-2",
+      "p_id": 78
+     },
+     {
+      "s_no": 171,
+      "stone_name": "The Grace - Sapphire",
+      "dimension": "9.6x17.1",
+      "shape": "Kite",
+      "cts": 5.96,
+      "stone_code": "MIX1-N-5"
+     },
+     {
+      "s_no": 172,
+      "stone_name": "Pink Sapphire",
+      "dimension": "4.5x9.8",
+      "shape": "Baguette",
+      "cts": 1.47,
+      "stone_code": "MIX1-N-7",
+      "p_id": 388
+     },
+     {
+      "s_no": 173,
+      "stone_name": "Shamrock Tsavorite",
+      "dimension": "6x6x3.2\/3.7",
+      "shape": "Princess",
+      "cts": 2.02,
+      "stone_code": "TS1-N-14",
+      "p_id": 62
+     },
+     {
+      "s_no": 174,
+      "stone_name": "Sage Tsavorite",
+      "dimension": "6.20x9.30",
+      "shape": "Pear",
+      "cts": 2.81,
+      "stone_code": "TS1-N-25",
+      "p_id": 87
+     },
+     {
+      "s_no": 175,
+      "stone_name": "Pine Tsavorite",
+      "dimension": "4.6x9.3",
+      "shape": "Marquise ",
+      "cts": 0.9,
+      "stone_code": "TS1-N-42",
+      "p_id": 28
+     },
+     {
+      "s_no": 176,
+      "stone_name": "Pine Tsavorite",
+      "dimension": "4.9x10.2",
+      "shape": "Marquise ",
+      "cts": 0.96,
+      "stone_code": "TS1-N-43",
+      "p_id": 30
+     },
+     {
+      "s_no": 177,
+      "stone_name": "Shamrock Tsavorite",
+      "dimension": "7.20x10.20",
+      "shape": "Pear",
+      "cts": 1.88,
+      "stone_code": "TS1-N-46(A)",
+      "p_id": 50
+     },
+     {
+      "s_no": 178,
+      "stone_name": "Pine Tsavorite",
+      "dimension": "5x5",
+      "shape": "Square",
+      "cts": 1.41,
+      "stone_code": "TS1-N-56(A)",
+      "p_id": 43
+     },
+     {
+      "s_no": 179,
+      "stone_name": "Pine Tsavorite",
+      "dimension": "7.10x7.10",
+      "shape": "Trillion",
+      "cts": 1.62,
+      "stone_code": "TS1-N-75",
+      "p_id": 64
+     },
+     {
+      "s_no": 180,
+      "stone_name": "Pine Tsavorite",
+      "dimension": "5x8",
+      "shape": "Pear",
+      "cts": 1.75,
+      "stone_code": "TS1-N-91(a)",
+      "p_id": 54
+     },
+     {
+      "s_no": 181,
+      "stone_name": "Rustic Tazanite",
+      "dimension": "11.5x14",
+      "shape": "Oval",
+      "cts": 8.95,
+      "stone_code": "TZ2-FTZ-2",
+      "p_id": 394
      }
     ]
 }
